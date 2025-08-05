@@ -98,34 +98,4 @@ This project demonstrates how to build a secure and scalable Virtual Private Clo
 
 ### 🌐 **Architecture Diagram**
 
-Attach the image you received earlier here in your GitHub or Google Drive documentation.
-
----
-
-### 📂 **GitHub/Drive Folder Structure**
-
-```bash
-aws-vpc-security-setup/
-├── README.md
-├── images/
-│   └── vpc-architecture-diagram.png
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   └── outputs.tf
-```
-
-> ✅ **TIP:** Push this to GitHub and mention the repo link in your LinkedIn post.
-
----
-
-### ✅ Next Steps (Optional Enhancements):
-
-* Add a **private EC2 instance** for DB
-* Add **NAT Gateway** for private outbound access
-* Deploy the same using **Terraform**
-
----
-
-Would you like me to **generate the Terraform code**, **upload a PDF-ready README**, or help you push this to a **GitHub repo** with your name on it?
-ivate-Subnet)
+Attach the image you received earlier here in your GitHub 
