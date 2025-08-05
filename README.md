@@ -98,4 +98,6 @@ This project demonstrates how to build a secure and scalable Virtual Private Clo
 
 ### 🌐 **Architecture Diagram**
 
-Attach the image you received earlier here in your GitHub 
+# Attach the image you received earlier here in your GitHub 
+
+<img width="1024" height="1024" alt="img" src="https://github.com/user-attachments/assets/3ccbbf6d-f810-4b22-8660-050cc3840755" />
